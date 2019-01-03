@@ -52,10 +52,10 @@
 ### Install Required Packages
 
 ```sh
-$ install.package ("data.table")
-$ install.package ("dplyr")
-$ install.package ("tidyr")
-$ install.package ("mgsub")
+$ install.packages ("data.table")
+$ install.packages ("dplyr")
+$ install.packages ("tidyr")
+$ install.packages ("mgsub")
 ```
 
 # Run ...
