@@ -1,6 +1,6 @@
 ## Code Book
 
-This section contains specific information each variable (column) included in the uploaded table, HAR-subject-activity-mean.txt.  Most of the variables are summarizations of variables with the same name and description in the Human Activity Recognition Using Smartphones Dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  The variables are described in the `features_info.txt` and `README.txt` in that dataset.  Please see those files for more details.  
+This section contains specific information each variable (column) included in the uploaded table, tidyData.txt.  Most of the variables are summarizations of variables with the same name and description in the Human Activity Recognition Using Smartphones Dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  The variables are described in the `features_info.txt` and `README.txt` in that dataset.  Please see those files for more details.  
 
 Units (according to the `README.txt` file):
 
