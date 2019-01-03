@@ -85,5 +85,5 @@ run_analysis <- function(){
         summarize(average=mean(value)) %>% mutate(feature=prettyfyNames(feature))
     
     # Storing the data inside tidyData.txt
-    write.table(tidyData,"tidyData.txt",row.names = TRUE,sep="\t")
+    write.table(tidyData,"tidyData.txt",row.names = FALSE,sep="\t")
 }
